@@ -1,4 +1,4 @@
-# Kaggle_CIS_Fraud_Detection
+# project_proposal.md
 Kaggle CIS Fraud Detection competition
 Kehao Yao(ky392)
 Yuan Yao(yy874)
