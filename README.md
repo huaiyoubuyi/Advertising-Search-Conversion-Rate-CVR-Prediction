@@ -10,6 +10,6 @@ https://www.kaggle.com/c/ieee-fraud-detection/data
 
 If successful, we’ll improve the efficacy of fraudulent transaction alerts for millions of people around the world, helping hundreds of thousands of businesses reduce their fraud loss and increase their revenue. 
 
-In this competition you are predicting the probability that an online transaction is fraudulent, as denoted by the binary target isFraud.
+In this competition we are predicting the probability that an online transaction is fraudulent, as denoted by the binary target isFraud. The data is broken into two files identity and transaction, which are joined by TransactionID. Not all transactions have corresponding identity information.
 
-The data is broken into two files identity and transaction, which are joined by TransactionID. Not all transactions have corresponding identity information.
+After reviewing the dataset as well as features, we decided to use Lightgbm and GBDT model to predict the fraud rate. We have built the machine learning model in Python. The next step is feature engineering and parameter optimization. At present, we rank about 30% in over 6000 teams.
