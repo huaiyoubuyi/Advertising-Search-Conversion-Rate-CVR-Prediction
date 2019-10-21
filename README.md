@@ -1,5 +1,5 @@
 # project_proposal.md
-Alimama Sponsored Search Conversion Rate(CVR) Prediction Contest
+Advertising Search Conversion Rate(CVR) Prediction 
 
 
 Kehao Yao(ky392) Yuan Yao(yy874)
