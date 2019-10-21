@@ -6,7 +6,7 @@ Kehao Yao(ky392) Yuan Yao(yy874)
 
 The problem:
 
-The problem origins from Alimama Sponsored Search Conversion Rate(CVR) Prediction Contest, which was sponsored by Alibaba, the largest e-commerce platform in China. 
+The problem origins from Advertising Search Conversion Rate(CVR) Prediction Contest, which was sponsored by Alibaba, the largest e-commerce platform in China. 
 The conversion rate (CVR) in sponsored search is defined as the probability of a user to purchase the displayed item after clicking this item. CVR indicates customers’ satisfactory to the displayed items, shops and the advertising creative. For example, someone searches “sweater” in Taobao.com on PC or mobile client, dozens of sweaters with different brands and styles will be displayed. By clicking one of these items, detailed information about this item, including the product introduction, store reputation and user comments, will be loaded. Intuitively, if M customers click and browse a specific item, and N of them purchase this item, the CVR of this item is computed as the ratio between the transaction number and the click number, i.e. CVR=N/M.
 
 The dataset:
